@@ -38,9 +38,8 @@
     color: #555;
   }
 
-  /* Footer estilo */
   .footer {
-    background-color: #263238; /* Fondo oscuro para el footer */
+    background-color: #263238; 
     color: #fff;
     padding: 40px 0;
     margin-top: 40px;
